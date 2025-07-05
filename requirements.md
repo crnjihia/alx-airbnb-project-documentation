@@ -24,3 +24,4 @@
 - **Input**: `{ property_id, user_id, check_in, check_out }`
 - **Output**: `{ booking_id, status }`
 - **Validation**: No double-bookings, valid dates
+
